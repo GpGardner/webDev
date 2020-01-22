@@ -1,0 +1,85 @@
+.green {
+  background-color: green;
+}
+
+.red {
+  background-color: red;
+}
+
+.white {
+  background-color: white;
+}
+.part1 {
+  border-bottom: 1px solid green;
+  display: inline-block;
+  height: 80px;
+  width: 80px;
+  margin: 0;
+}
+
+.part2 {
+  border-bottom: 1px solid green;
+  border-right: 1px solid green;
+  border-left: 1px solid green;
+  display: inline-block;
+  height: 80px;
+  width: 80px;
+  margin: 0;
+}
+
+.part3 {
+  border-bottom: 1px solid green;
+  display: inline-block;
+  height: 80px;
+  width: 80px;
+  margin: 0;
+}
+
+.part4 {
+  border-bottom: 1px solid green;
+  display: inline-block;
+  height: 80px;
+  width: 80px;
+  margin: 0;
+}
+
+.part5 {
+  border-left: 1px solid green;
+  border-right: 1px solid green;
+  border-bottom: 1px solid green;
+  display: inline-block;
+  height: 80px;
+  width: 80px;
+  margin: 0;
+}
+
+.part6 {
+  border-bottom: 1px solid green;
+  display: inline-block;
+  height: 80px;
+  width: 80px;
+  margin: 0;
+}
+
+.part7 {
+  display: inline-block;
+  height: 80px;
+  width: 80px;
+  margin: 0;
+}
+
+.part8 {
+  border-left: 1px solid green;
+  border-right: 1px solid green;
+  display: inline-block;
+  height: 80px;
+  width: 80px;
+  margin: 0;
+}
+
+.part9 {
+  display: inline-block;
+  height: 80px;
+  width: 80px;
+  margin: 0;
+}
