@@ -1,0 +1,1 @@
+This code was created while learning JS. It was my first real challenge I undertook without following along. I plan to come back to refactor the code.
