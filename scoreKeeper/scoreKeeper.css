@@ -1,0 +1,17 @@
+.winner {
+  color: green;
+}
+
+.loser {
+  color: red;
+}
+
+body {
+  background-color: rgb(60, 60, 163);
+  color: white;
+}
+
+button {
+  background-color: rgb(48, 48, 119);
+  color: white;
+}
